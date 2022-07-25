@@ -29,7 +29,7 @@ Note: The following N5110 library functions are tested during the execution of t
       - N5110::refresh()
       - N5110::printString(char const *str, unsigned int const  x, unsigned int const  y)
 
-Circuit Schematic No.:  9     : https://github.com/ELECXJEL2645/Circuit_Schematics
+Circuit Schematic No.:  9
 Required Libraries:     N5110 : https://github.com/ELECXJEL2645/N5110
 
 Authored by:            Andrew Knowles
