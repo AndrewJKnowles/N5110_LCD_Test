@@ -33,10 +33,7 @@ Circuit Schematic No.:  9     : https://github.com/ELECXJEL2645/Circuit_Schemati
 Required Libraries:     N5110 : https://github.com/ELECXJEL2645/N5110
 
 Authored by:            Andrew Knowles
-Date:                   2021
-Collaberators:          Dr Craig Evans
-                        Dr Alexander Valavanis
-                        Dr Tim Amsdon
+Date:                   06/2022
 Version:                2.0
 Revision Date:          06/2022 
 MBED Studio Version:    1.4.1
